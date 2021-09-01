@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <a href = "mailto:thiago72araujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-araujo-88a226209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/thiagobaraujo/thiagobaraujo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ThiagoBAraujo/ThiagoBAraujo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
